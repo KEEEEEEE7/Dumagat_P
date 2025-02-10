@@ -2,6 +2,7 @@ const logotext = "Keenan";
 const meta = {
     title: "Keenan Dumagat",
     description: "This is an un-official website used for school purposes",
+    description: "WASAP",
 };
 
 const introdata = {
